@@ -8,11 +8,14 @@
   },
   "keywords": [
     "puppeteer",
+    "es6 modules",
     "esm",
+    "mocha",
+    "chai",
     "boilerplate",
     "example"
   ],
-  "author": "Girma Nigusse",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
