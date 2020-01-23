@@ -1,4 +1,4 @@
-name: NodeCI
+name: puppeteer-es6modules-esm-mocha-chai
 
 on: [push]
 
