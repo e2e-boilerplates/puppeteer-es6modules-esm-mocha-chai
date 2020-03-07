@@ -1,4 +1,4 @@
-name: puppeteer-es6-modules-esm-mocha-chai-expect
+name: puppeteer-es-modules-esm-mocha-chai-expect
 
 on:
   push:
