@@ -23,17 +23,17 @@
   },
   "keywords": [
     "chai",
-    "es modules",
+    "es",
     "esm",
     "expect",
     "mocha",
     "puppeteer"
   ],
   "license": "MIT",
-  "name": "puppeteer-es6-modules-esm-mocha-chai-expect",
+  "name": "puppeteer-es-modules-esm-mocha-chai-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/puppeteer-es6-modules-esm-mocha-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplates/puppeteer-es-modules-esm-mocha-chai-expect.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
