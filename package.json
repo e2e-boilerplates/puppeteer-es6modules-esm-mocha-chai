@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "Puppeteer end-to-end test automation boilerplate, using ES6 modules, ESM, Mocha, Chai and Expect.",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "description": "puppeteer end-to-end test automation boilerplate.",
   "devDependencies": {
     "chai": "4.2.0",
     "eslint": "6.8.0",
@@ -22,10 +22,15 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "chai",
+    "e2e",
+    "e2e tests",
     "es",
     "esm",
+    "example",
     "expect",
+    "integration test",
     "mocha",
     "puppeteer"
   ],
