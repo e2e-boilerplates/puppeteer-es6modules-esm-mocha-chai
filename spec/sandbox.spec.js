@@ -14,7 +14,7 @@ describe("google search", () => {
 
     await page
       .goto("https://e2e-boilerplate.github.io/sandbox/", {
-        waitUntil: "networkidle0"
+        waitUntil: "networkidle0",
       })
       .catch(() => {});
   });
@@ -27,7 +27,7 @@ describe("google search", () => {
 
   it("should be on google search page", async () => {
     await page.waitFor("h1");
-    const title = await page.$eval("h1", el => el.textContent);
+    const title = await page.$eval("h1", (el) => el.textContent);
 
     expect(await page.title()).to.equal("Sandbox");
     expect(title).to.equal("Sandbox");
